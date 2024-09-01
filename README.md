@@ -1,7 +1,7 @@
 # Basic Llama2 Chatbot
 
 ## Live Website
-Check out the live demo of the application [here]([https://basic-chatbot-wc855dddg3pc2dhdwywq2r.streamlit.app/]).
+Check out the live demo of the application [here](https://basic-chatbot-wc855dddg3pc2dhdwywq2r.streamlit.app/).
 
 
 ## Description

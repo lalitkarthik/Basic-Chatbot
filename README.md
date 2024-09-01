@@ -1,7 +1,7 @@
 # Llama2 Model Selector
 
 ## Live Website
-Check out the live demo of the application [here]([http://your-live-website-link.com](https://basic-chatbot-wc855dddg3pc2dhdwywq2r.streamlit.app/)).
+Check out the live demo of the application [here]([http://your-live-website-link.com](https://basic-chatbot-wc855dddg3pc2dhdwywq2r.streamlit.app/]).
 
 
 ## Description
